@@ -1,7 +1,6 @@
 # Chat-App
 
 # About the Chat App with React Native
-
 This project involves building a chat app for mobile devices using React Native. The app provides users with a chat interface and options to share images and their location. It works on both iOS and Android devices and utilizes Google Firestore/Firebase for storing messages and images. Guest authentication is handled via Google Firebase authentication.
 
 ## Features and Requirements
@@ -27,21 +26,21 @@ This project involves building a chat app for mobile devices using React Native.
 
 json
 {
-  "@react-navigation/native": "",
-  "@react-navigation/native-stack": "",
-  "expo": "",
-  "expo-status-bar": "",
-  "firebase": "",
-  "react": "",
-  "react-native": "",
-  "react-native-gifted-chat": "",
-  "react-native-safe-area-context": "",
-  "react-native-screens": "",
-  "@react-native-async-storage/async-storage": "",
-  "@react-native-community/netinfo": "",
-  "expo-image-picker": "",
-  "expo-location": "",
-  "react-native-maps": ""
+  - "@react-navigation/native": "",
+  - "@react-navigation/native-stack": "",
+  - "expo": "",
+  - "expo-status-bar": "",
+  - "firebase": "",
+  - "react": "",
+  - "react-native": "",
+  - "react-native-gifted-chat": "",
+  - "react-native-safe-area-context": "",
+  - "react-native-screens": "",
+  - "@react-native-async-storage/async-storage": "",
+  - "@react-native-community/netinfo": "",
+  - "expo-image-picker": "",
+  - "expo-location": "",
+  - "react-native-maps": ""
 }
 
 ### Prerequisites
@@ -58,10 +57,10 @@ Node.js
 
 ### Starting the Expo Project
 
-To start the Expo project, run the following command: npx expo start
+To start the Expo project, run the following command: `npx expo start`
 
 ### Testing Options
 
-Expo App: Download and connect the Expo app on your mobile device.
-Android Studio: For Android testing.
-Xcode: For iOS testing.
+- Expo App: Download and connect the Expo app on your mobile device.
+- Android Studio: For Android testing.
+- Xcode: For iOS testing.
