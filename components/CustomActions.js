@@ -87,6 +87,7 @@ const CustomActions = ({ wrapperStyle, iconTextStyle, onSend, storage, userID, r
         </View>
     </TouchableOpacity>
     )
+    
 }
 
 const styles = StyleSheet.create({

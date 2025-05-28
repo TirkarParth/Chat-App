@@ -140,6 +140,7 @@ export const Chat = ({ route, navigation, db, storage, isConnected }) => {
     </View>)
 }
 
+
 const styles = StyleSheet.create({
     container: {
         flex: 1,
