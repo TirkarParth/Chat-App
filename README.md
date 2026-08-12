@@ -64,3 +64,4 @@ To start the Expo project, run the following command: `npx expo start`
 - Expo App: Download and connect the Expo app on your mobile device.
 - Android Studio: For Android testing.
 - Xcode: For iOS testing.
+- React Native 
